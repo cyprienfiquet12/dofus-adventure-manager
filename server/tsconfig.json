@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "module": "ESNext",
+      "target": "ES2017",
+      "moduleResolution": "Node",
+      "sourceMap": true,
+      "outDir": "./dist"
+    },
+    "lib": ["ES2017"]
+  }
